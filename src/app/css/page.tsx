@@ -20,7 +20,6 @@ export default function Page() {
     return (
         <MaxWidthWrapper>
             <div style={sectionStyle}>
-                {' '}
                 <div className='w-custom-image-witdh mx-12 h-custom-image-height border border-amber-400 border-opacity-80'>
                     <div className='w-custom-image-witdh mx-16 h-custom-image-height border border-amber-400 border-opacity-80'>
                         <div className='w-custom-image-witdh mx-20 h-custom-image-height border border-amber-200 border-opacity-80'>
